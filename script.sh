@@ -16,7 +16,7 @@
 #	- arr : which mean arrange,followd by the file 
 #	 	type you are going to arrange in one new directory
 #
-# Usage: ./mdss.sh
+# Usage: ./script.sh
 ########################################################################
 
 
